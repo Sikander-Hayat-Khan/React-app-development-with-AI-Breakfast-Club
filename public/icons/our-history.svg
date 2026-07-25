@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Outer Scroll Shadow / Layer -->
+  <g stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Rolled Top Right Backing -->
+    <path d="M380 40 C430 40, 460 70, 460 110 C460 130, 440 145, 410 145 C380 145, 360 120, 360 90 C360 60, 375 40, 380 40 Z" fill="#FBBF24" />
+
+    <!-- Main Parchment Paper Base -->
+    <path d="M120 40 L380 40 C410 40 430 65 430 95 L430 420 C430 460 395 480 340 480 L70 480 C35 480 20 455 20 420 L20 380 C20 360 35 345 55 345 L110 345 L110 95 C110 65 100 40 120 40 Z" fill="#FEF08A" />
+
+    <!-- Parchment Right Layer Accent / Shadow -->
+    <path d="M360 40 L380 40 C410 40 430 65 430 95 L430 420 C430 460 395 480 340 480 L320 480 C370 480 400 455 400 415 L400 95 C400 65 385 40 360 40 Z" fill="#FDE047" />
+
+    <!-- Rolled Bottom Curl -->
+    <path d="M20 380 C20 355 45 345 75 345 L320 345 C350 345 370 365 370 395 L370 420 C370 455 330 480 270 480 L70 480 C35 480 20 455 20 380 Z" fill="#FBBF24" />
+
+    <!-- Writing Lines on Scroll -->
+    <line x1="180" y1="110" x2="340" y2="110" />
+    <line x1="180" y1="150" x2="340" y2="150" />
+    <line x1="180" y1="190" x2="340" y2="190" />
+    <line x1="280" y1="230" x2="340" y2="230" />
+    <line x1="280" y1="270" x2="340" y2="270" />
+    <line x1="180" y1="310" x2="340" y2="310" />
+    <line x1="180" y1="350" x2="340" y2="350" />
+
+    <!-- Feather Quill Pen Body -->
+    <!-- Feather Vane Top (Brown) -->
+    <path d="M75 95 C60 140 75 190 120 225 L210 180 C180 140 145 95 75 95 Z" fill="#8B6F64" />
+    
+    <!-- Feather Vane Bottom (White/Grey) -->
+    <path d="M120 225 C160 260 215 285 270 290 L310 245 C270 230 235 205 210 180 Z" fill="#F3F4F6" />
+
+    <!-- Quill Shaft / Stem (Central Line & Tip) -->
+    <path d="M75 95 L355 365" stroke-width="24" fill="none" stroke="#374151" />
+    <path d="M75 95 L355 365" stroke-width="14" fill="none" stroke="#9CA3AF" />
+
+    <!-- Feather Cutouts/Details -->
+    <path d="M110 125 L75 135" />
+    <path d="M140 160 L105 175" />
+    <path d="M180 200 L145 220" />
+    <path d="M225 240 L190 265" />
+  </g>
+</svg>
