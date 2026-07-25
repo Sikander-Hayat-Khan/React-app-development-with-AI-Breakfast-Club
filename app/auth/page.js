@@ -99,7 +99,7 @@ function AuthFormContent() {
 
                 <div className="flex items-start gap-3 bg-white/80 p-3.5 rounded-2xl border border-amber-100">
                   <div className="w-9 h-9 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center font-bold text-lg shrink-0">
-                    <img width={25} src="/Table.png" alt="" />
+                    <img width={25} src="/table.png" alt="" />
                   </div>
                   <div>
                     <h4 className="font-bold text-gray-900 text-sm font-mono">
@@ -113,7 +113,7 @@ function AuthFormContent() {
 
                 <div className="flex items-start gap-3 bg-white/80 p-3.5 rounded-2xl border border-amber-100">
                   <div className="w-9 h-9 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center font-bold text-lg shrink-0">
-                    <img width={25} src="/Coffee2.png" alt="" />
+                    <img width={25} src="/coffee2.png" alt="" />
                   </div>
                   <div>
                     <h4 className="font-bold text-gray-900 text-sm font-mono">

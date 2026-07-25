@@ -197,21 +197,21 @@ export default function UserProfileCard({ user, onLogout }) {
                 href="/reservation"
                 className="flex items-center justify-center gap-2 bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold font-pixelify-sans py-3 px-4 rounded-xl text-sm shadow-xs hover:shadow-md transition-all text-center"
               >
-                <img width={25} src="/Reservation.png" alt="" />
+                <img width={25} src="/reservation.png" alt="" />
                 <span>Book a Table</span>
               </Link>
               <Link
                 href="/menu"
                 className="flex items-center justify-center gap-2 bg-gray-900 hover:bg-gray-800 text-white font-bold font-pixelify-sans py-3 px-4 rounded-xl text-sm shadow-xs hover:shadow-md transition-all text-center"
               >
-                <img width={25} src="/Book.png" alt="" />
+                <img width={25} src="/book.png" alt="" />
                 <span>Order Breakfast Menu</span>
               </Link>
               <Link
                 href="/checkout"
                 className="flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold font-pixelify-sans py-3 px-4 rounded-xl text-sm shadow-xs hover:shadow-md transition-all text-center"
               >
-                <img width={22} src="/Cart.png" alt="" />
+                <img width={22} src="/icons/cart.png" alt="" />
                 <span>View Cart & Checkout</span>
               </Link>
             </div>
